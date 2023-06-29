@@ -1,7 +1,7 @@
 # paiza
 
 ##　コードガールコレクション
-![cordgirlcollection](./code gril.png)
+![cordgirlcollection](./cordgirl.png)
 
 ## 　恋するハッカソン
 * [ショートヘア](./koisuru/short_hair.py)
