@@ -1,10 +1,10 @@
 # paiza
 
 ##　コードガールコレクション
-![cordgirlcollection](./images/cordinggirl.png)
+![cordgirlcollection](./cordinggirl.png)
 
 ## 　恋するハッカソン
-* [ショートヘア](./paiza/koisuru/short_hair.py)
+* [ショートヘア](./koisuru/short_hair.py)
 * [ロングヘア](./paiza/koisuru/long_hair.py)
 * [ポニーテール](./paiza/koisuru/pony_hair.py)
 * [ツインテール](./paiza/koisuru/tuinteel_hair.py)
