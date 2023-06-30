@@ -1,11 +1,11 @@
 def calculate_paiza_points():
     p = int(input())
 
-    points = p // 100  # 100円ごとのポイント
+    points = p // 100  
     bonus = 0
 
     if p >= 1000:
-        bonus = 10  # ボーナスポイント
+        bonus = 10 
 
     total_points = points + bonus
 
